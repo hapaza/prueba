@@ -1,0 +1,41 @@
+body{
+    background-color: aqua;
+    color: azure;
+}
+header{
+    margin: 35px;
+    border: 15px red;
+    padding: 13px;
+    height: 13px ;
+    background-color: brown;
+    border-radius: 2px;
+}
+h1{
+    text-align: center;
+    color:blue ;
+    text-decoration: solid;
+}
+div.box{
+    border: 34px solid rebeccapurple;
+    margin: 12px ;
+    padding: 12px ;
+    height: fit-content;
+   width: auto;
+}
+div>img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items:center ;
+    margin: 12px;
+    background-image: -moz-linear-gradient(margin-left);
+    box-shadow: inset;
+}
+div.img>img.rule{
+color: #000;
+}
+.red{
+    text-decoration: overline;
+    column-rule: 13px;
+    text-transform:capitalize ;
+}

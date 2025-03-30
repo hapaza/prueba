@@ -1,0 +1,19 @@
+body{
+    background-color: blueviolet;
+    color: blue;
+    
+}
+header{
+    background-color: crimson;
+    margin: 5px;
+    padding: 15ps;
+    border: 10px solid burlywood;
+    box-shadow: inset red;
+}
+div.box{
+    margin: 12px;
+    border: 5px red;
+    background-color: blueviolet;
+    padding: 10px;
+
+}
